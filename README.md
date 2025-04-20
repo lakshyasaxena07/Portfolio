@@ -4,7 +4,7 @@ This repository contains the source code for my personal portfolio website, buil
 
 ## 🚀 Live Website
 
-🔗 [lakshyasaxena07.github.io](https://lakshyasaxena07.github.io)
+🔗 [lakshyasaxena07.github.io](https://lakshyasaxena07.github.io/Portfolio/)
 
 ---
 
